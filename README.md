@@ -10,5 +10,5 @@
  ```
 sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ```
-![]()
-![]()
+![](https://github.com/Dina-Adel-1302/ugarit/blob/a6ee7045796dc6e6f1ed87acea3fe32042579f9a/screen_shots/Screenshot%20from%202022-12-04%2020-32-43.png)
+![](https://github.com/Dina-Adel-1302/ugarit/blob/a6ee7045796dc6e6f1ed87acea3fe32042579f9a/screen_shots/Screenshot%20from%202022-12-04%2020-34-08.png)
