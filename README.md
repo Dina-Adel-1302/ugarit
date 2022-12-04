@@ -10,3 +10,5 @@
  ```
 sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ```
+![]()
+![]()
