@@ -14,7 +14,7 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/a6ee7045796dc6e6f1ed87acea3fe32042579f9a/screen_shots/Screenshot%20from%202022-12-04%2020-34-08.png)
 
 
-## metricbeat configuration 
+## metricbeat.yml
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/007ead8b3387f42a8ac3c2c9a52bb353db55dc60/screen_shots/Screenshot%20from%202022-12-05%2012-21-40.png)
 
 
@@ -22,10 +22,15 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/007ead8b3387f42a8ac3c2c9a52bb353db55dc60/screen_shots/Screenshot%20from%202022-12-05%2010-49-15.png)
 
 
-## filebeat configuration
+## filebeat.yml
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/b6cc2fbdd0b6a189cbce4f7d62859d53a6997b5d/screen_shots/Screenshot%20from%202022-12-05%2012-54-56.png)
 
 
 ## filebeat dashboard with modules system and auditd enabled
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/8893a8c142624e3016b3e0c6678e30408b2461a7/screen_shots/Screenshot%20from%202022-12-05%2020-29-56.png)
 
+## heartbeat.yml
+![](https://github.com/Dina-Adel-1302/ugarit/blob/42b177a12a0812bb503b2296873407f37727464b/screen_shots/Screenshot%20from%202022-12-05%2021-53-42.png)
+
+## heartbeat uptime interface 
+![](https://github.com/Dina-Adel-1302/ugarit/blob/843c88938fb3514e1243416e040dd77b81f9663f/screen_shots/Screenshot%20from%202022-12-05%2023-12-48.png)
