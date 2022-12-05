@@ -23,9 +23,9 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 
 
 ## filebeat configuration
-![]()
+![](https://github.com/Dina-Adel-1302/ugarit/blob/b6cc2fbdd0b6a189cbce4f7d62859d53a6997b5d/screen_shots/Screenshot%20from%202022-12-05%2012-54-56.png)
 
 
 ## filebeat dashboard with modules system and auditd enabled
-![]()
+![](https://github.com/Dina-Adel-1302/ugarit/blob/8893a8c142624e3016b3e0c6678e30408b2461a7/screen_shots/Screenshot%20from%202022-12-05%2020-29-56.png)
 
