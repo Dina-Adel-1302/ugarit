@@ -39,7 +39,7 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/9edbcd8f8879e2559f1a787ba27fa20405375c66/screen_shots/dashboard1/Screenshot%20from%202022-12-06%2001-43-48.png)
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/9edbcd8f8879e2559f1a787ba27fa20405375c66/screen_shots/dashboard1/Screenshot%20from%202022-12-06%2011-42-35.png)
 
-## dashboard 2 / I don't have SSH history so instead I showed sudo commands history
+## dashboard 2 / I don't have SSH history so i used sudo commands history instead
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/9edbcd8f8879e2559f1a787ba27fa20405375c66/screen_shots/dashboard2/Screenshot%20from%202022-12-06%2011-47-27.png)
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/9edbcd8f8879e2559f1a787ba27fa20405375c66/screen_shots/dashboard2/Screenshot%20from%202022-12-06%2011-52-42.png)
 
