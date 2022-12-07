@@ -49,6 +49,7 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ## heartbeat.yml
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/42b177a12a0812bb503b2296873407f37727464b/screen_shots/Screenshot%20from%202022-12-05%2021-53-42.png)
 
+## issue #2: heartbeat is showing that elasticsearch is down
 ## heartbeat uptime interface 
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/843c88938fb3514e1243416e040dd77b81f9663f/screen_shots/Screenshot%20from%202022-12-05%2023-12-48.png)
 
