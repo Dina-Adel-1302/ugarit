@@ -26,8 +26,11 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/b6cc2fbdd0b6a189cbce4f7d62859d53a6997b5d/screen_shots/Screenshot%20from%202022-12-05%2012-54-56.png)
 
 
-## filebeat dashboard with modules system and auditd enabled
-![](https://github.com/Dina-Adel-1302/ugarit/blob/8893a8c142624e3016b3e0c6678e30408b2461a7/screen_shots/Screenshot%20from%202022-12-05%2020-29-56.png)
+## filebeat dashboard / system module
+![](https://github.com/Dina-Adel-1302/ugarit/blob/803325522d5170f8669cf5f183b1ba18507814b7/screen_shots/Screenshot%20from%202022-12-07%2008-27-45.png)
+
+## filebeat dashboard / auditd module
+![](https://github.com/Dina-Adel-1302/ugarit/blob/803325522d5170f8669cf5f183b1ba18507814b7/screen_shots/Screenshot%20from%202022-12-07%2008-28-57.png)
 
 ## heartbeat.yml
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/42b177a12a0812bb503b2296873407f37727464b/screen_shots/Screenshot%20from%202022-12-05%2021-53-42.png)
