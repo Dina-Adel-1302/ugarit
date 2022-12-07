@@ -17,7 +17,7 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ## metricbeat.yml / created keystores for the password and the http certificate
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/007ead8b3387f42a8ac3c2c9a52bb353db55dc60/screen_shots/Screenshot%20from%202022-12-05%2012-21-40.png)
 
-## issue #1: nginx status is not configured, so i had to configure it manually.
+## issue #1: nginx status is not configured by default, so i had to configure it manually.
 ## nginx_status.conf in /etc/nginx/conf.d
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/98d72fd5ba36edf3e2495886bcdcb04986e89689/screen_shots/Screenshot%20from%202022-12-07%2010-08-21.png)
 
@@ -25,15 +25,15 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/a60e509c1e6bd8385d1d4f475c51f6c98c68e81c/screen_shots/Screenshot%20from%202022-12-07%2010-18-42.png)
 
 ## nevertheless metric beat is not able to fetch nginx status.
+## metricbeat dashboard / nginx module 
+![](https://github.com/Dina-Adel-1302/ugarit/blob/98d72fd5ba36edf3e2495886bcdcb04986e89689/screen_shots/Screenshot%20from%202022-12-07%2010-05-29.png)
+
 ## metricbeat module nginx.yml
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/98d72fd5ba36edf3e2495886bcdcb04986e89689/screen_shots/Screenshot%20from%202022-12-07%2010-04-19.png)
 
 ## metricbeat dashboard / system module
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/98d72fd5ba36edf3e2495886bcdcb04986e89689/screen_shots/Screenshot%20from%202022-12-07%2010-06-28.png)
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/98d72fd5ba36edf3e2495886bcdcb04986e89689/screen_shots/Screenshot%20from%202022-12-07%2010-06-33.png)
-
-## metricbeat dashboard / nginx module (no data)
-![](https://github.com/Dina-Adel-1302/ugarit/blob/98d72fd5ba36edf3e2495886bcdcb04986e89689/screen_shots/Screenshot%20from%202022-12-07%2010-05-29.png)
 
 
 ## filebeat.yml / created keystores for the password and the http certificate
