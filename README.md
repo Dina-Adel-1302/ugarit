@@ -43,3 +43,7 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/9edbcd8f8879e2559f1a787ba27fa20405375c66/screen_shots/dashboard2/Screenshot%20from%202022-12-06%2011-47-27.png)
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/9edbcd8f8879e2559f1a787ba27fa20405375c66/screen_shots/dashboard2/Screenshot%20from%202022-12-06%2011-52-42.png)
 
+## Safee priviliges 
+![](https://github.com/Dina-Adel-1302/ugarit/blob/37517222f900eabc642aabd9318514c27ba7e22c/screen_shots/Screenshot%20from%202022-12-07%2006-42-51.png)
+![](https://github.com/Dina-Adel-1302/ugarit/blob/3feb803a8a002d0f9a374830479a1e508983661a/screen_shots/Screenshot%20from%202022-12-07%2006-43-11.png)
+
