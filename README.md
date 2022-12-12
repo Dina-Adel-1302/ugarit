@@ -65,6 +65,10 @@ sudo htpasswd -c /etc/nginx/htpasswd.users elastic
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/37517222f900eabc642aabd9318514c27ba7e22c/screen_shots/Screenshot%20from%202022-12-07%2006-42-51.png)
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/3feb803a8a002d0f9a374830479a1e508983661a/screen_shots/Screenshot%20from%202022-12-07%2006-43-11.png)
 
+
+
+# Elast Alert 
+
 ## Elast Alert for cpu usage more than 1% via email
 ![](https://github.com/Dina-Adel-1302/ugarit/blob/75c694c5d3ac1beace7705234bddb5f6718ad2f5/screen_shots/elastalert/Screenshot%20from%202022-12-11%2014-36-31.png)
 
