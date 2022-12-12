@@ -1,0 +1,25 @@
+name: Metricbeat CPU Spike Rule
+type: metric_aggregation
+
+index: metricbeat-*
+
+buffer_time:
+  minutes: 1
+
+metric_agg_key: system.cpu.user.pct
+metric_agg_type: avg
+
+timeframe:
+    minutes: 1
+
+min_threshold: 0.01
+max_threshold: 0.1
+
+filter:
+- term:
+    metricset.name: cpu
+
+alert:
+- "email"
+email:
+- "dina.adel.1302@gmail.com"

@@ -1,0 +1,20 @@
+
+name: sudo command 
+
+type: frequency
+
+num_events: 1
+
+timeframe:
+  minutes: 1
+
+filter:
+- term: 
+    process.name: sudo
+
+index: filebeat-*
+
+alert:
+  - "telegram"
+telegram_bot_token: ###########
+telegram_room_id: ############

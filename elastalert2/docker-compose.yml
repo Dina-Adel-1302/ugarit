@@ -1,0 +1,9 @@
+services:
+  elastalert2:
+    image: jertel/elastalert2:smtp
+    container_name: elastalert2
+    restart: always
+    volumes:
+      - ./elastalert.yaml:/opt/elastalert/config.yaml
+      - ./rules:/opt/elastalert/rules
+   

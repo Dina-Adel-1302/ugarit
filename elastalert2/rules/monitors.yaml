@@ -1,0 +1,21 @@
+index: heartbeat-*
+
+name: Monitor Down
+
+type: cardinality
+
+cardinality_field: "summary.down"
+
+max_cardinality: 0
+
+timeframe:
+  minutes: 1
+
+filter:
+- term:
+    monitor.status: down
+
+alert:
+- "email"
+email:
+- "dina.adel.1302@gmail.com"
